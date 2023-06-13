@@ -2,7 +2,6 @@ import ExpenseDate from '../ExpenseDate/ExpenseDate';
 import './ExpenseItem.css';
 import Card from '../../UI/Card/Card';
 import { FC } from 'react';
-import { IExpenseFormData } from '../../NewExpense/ExpenseForm/ExpenseForm';
 import Button from "../../UI/Button/Button";
 
 export interface IExpenseItem {
